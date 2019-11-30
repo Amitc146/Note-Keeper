@@ -3,7 +3,7 @@
 An app to save and retrieve notes by dates.
 
 ## Usage
-- Compile *.java on your Java environment.
+- Compile *.java on your JAVA environment.
 - Run 'Main' class.
 
 
