@@ -1,6 +1,6 @@
 # Note Keeper App
 
-An app to save and retrieve notes by dates.
+Save and retrieve notes by dates.
 
 ## Usage
 - Compile *.java on your JAVA environment.
